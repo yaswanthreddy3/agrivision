@@ -1,0 +1,49 @@
+# API
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-multipart
+gradio
+
+# Detection
+ultralytics
+opencv-python-headless
+onnxruntime
+numpy
+
+# LLM / vision (Groq)
+groq
+langchain-groq
+
+# Embeddings (Gemini)
+google-genai
+langchain-google-genai
+sentence-transformers
+
+# Vector store
+qdrant-client
+
+# Orchestration
+langgraph
+langchain-core
+
+# Reranking
+flashrank
+
+# Evaluation
+ragas
+datasets
+
+# Document processing
+pdfplumber
+pypdf
+
+# Observability
+langsmith
+logfire
+
+# Utilities
+python-dotenv
+
+nemoguardrails

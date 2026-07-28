@@ -1,0 +1,92 @@
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
+wheels/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+.env
+.env.*
+.python-version
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Lock Files
+# =========================
+uv.lock
+
+# =========================
+# AI Models 
+# =========================
+**/models/
+**/*.pt
+**/*.pth
+**/*.onnx
+**/*.engine
+**/*.ckpt
+**/*.safetensors
+
+# =========================
+# Datasets
+# =========================
+**/raw_pdfs/
+**/docs/
+**/crops/
+**/cache/
+**/datasets/
+**/data/
+
+# Keep placeholder files
+!**/README.md
+!**/.gitkeep
+
+# =========================
+# Evaluation
+# =========================
+**/eval/
+
+# =========================
+# Qdrant
+# =========================
+qdrant_storage/
+
+# =========================
+# Temporary
+# =========================
+tmp/
+temp/
+.cache/
