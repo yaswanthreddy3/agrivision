@@ -1,7 +1,7 @@
 # 🌱 AgriVision — Multi‑Modal Agricultural Intelligence
 
 <img
-  src="docs/docs/hero.png"
+  src="docs/hero.png"
   alt="Hero image"
   loading="lazy"
 />
