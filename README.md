@@ -1,6 +1,10 @@
 # 🌱 AgriVision — Multi‑Modal Agricultural Intelligence
 
-![Hero image](docs/hero.svg)
+<img
+  src="docs/hero.svg"
+  alt="Hero image"
+  loading="lazy"
+/>
 
 
 **A multimodal AI assistant that combines Computer Vision, Retrieval‑Augmented Generation (RAG), and LangGraph orchestration to deliver grounded, source‑cited agricultural guidance.**
