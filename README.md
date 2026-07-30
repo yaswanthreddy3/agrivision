@@ -155,7 +155,7 @@ flowchart TD
 ## Quick start (developer)
 
 ```bash
-git clone https://github.com/yourusername/agrivision.git
+git clone https://github.com/yaswanthreddy3/agrivision.git
 cd agrivision
 python3 -m venv .venv
 source .venv/bin/activate
